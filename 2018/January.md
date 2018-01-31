@@ -1,5 +1,7 @@
 # January 2018 Article Lists
 
+![Valknut-January](../img/Valknut-January.png)
+
 - [2018.01.01 Retrospective - 個人生活方面檢討與回顧](https://medium.com/@maximilianhuang/2018-01-01-c29dfe74b20e)
 - [2018.01.02 Introspective - 廢文 / 送 PR / 讀書心得 / 很雜](https://medium.com/@maximilianhuang/2018-01-02-7573a13f02f)
 - [2018.01.03 Perspective - Material UI 心得 / 北歐神話由來](https://medium.com/@maximilianhuang/2018-01-03-3cb2c4593dd2)
